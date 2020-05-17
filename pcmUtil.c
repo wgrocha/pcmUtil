@@ -7,7 +7,6 @@
 #define WORD u_int16_t
 #define DWORD u_int32_t
 #define INPUTFILE "input.wav"
-#define OUTPUTFILE "output.dat"
 
 //Cabeçalho RIFF
 struct RiffHeader {
